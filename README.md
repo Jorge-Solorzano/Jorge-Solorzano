@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Jorge-Solorzano
-- 👀 
 
 <!---
 Jorge-Solorzano/Jorge-Solorzano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
